@@ -1,4 +1,4 @@
-# Aula back-end - dependência ombok
+# Aula back-end - Projeto Lombok
 
 Este repositório contém um código desenvolvido em sala de aula na disciplina de back-end.
 
