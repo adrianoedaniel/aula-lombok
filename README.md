@@ -8,6 +8,8 @@ Para o desenvolvimento deste projeto, utilizou-se a IDE Spring Tool Suite 4, ain
 
 1. Maven
 2. Java 17
+3. MySql
+4. H2
 
 Dependências:
 1. Spring Web
